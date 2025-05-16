@@ -1,0 +1,47 @@
+Prompt Type,Output #,Output,BERTScore P,BERTScore R,BERTScore F1
+Direct,1,"Do this in your everyday life and you'll get the most out of your motivational quotes.
+
+What are your thoughts on motivational quotations? If you're looking for a list of motivational phrases to improve your reading, you can find them here. And if you want to find a specific motivational phrase that will help you improve the writing of that motivational message, here are a few:
+. . .
+: .",0.731817901134491,0.7622725367546082,0.7467348575592041
+Direct,2,"""I've never met a single person who has this problem or that problem, but I've met plenty of people who have had that.""
+
+What are the best ways to get involved with the community?
+ (You can also follow along with my new book, ""Passion: A Guide to Happiness"" on Facebook.)
+.
+: It's hard to imagine a more rewarding experience than seeing a smile on my face as I read this. I",0.7114210724830627,0.7478255033493042,0.7291691899299622
+Direct,3,"We've all seen it, but there's one problem with that, and it's not the success of the person. It's the failure of their mindset. This is where the motivational quotes come into play. If you're not successful, you won't have any of your life's savings. You'll lose it. And if you have the mindset that you want to win, this is the time to lose. So you just want the money to",0.7422130107879639,0.7659596800804138,0.753899335861206
+Scenario-based,1,"Do it right. This will make you feel more comfortable and your heart will naturally move. It will also help you to focus on what matters. Let yourself go. If you can, do it. Tell them how much you love them. Say, ""Thank you."" Then repeat. They will understand what you are saying, and you will be more successful. The way you do this will only make your life",0.7606188654899597,0.7659886479377747,0.7632942795753479
+Scenario-based,2,"""It's not a good thing to have to be an intern.""
+. I'm going to take that as a sign that you don't want to go out there and work. You'll get laid. The fact that your employer is going down this path has nothing to do with you. It's just a symptom of a deeper problem. Don't let it get in the way of your goals. Make",0.7307490110397339,0.7685099244117737,0.7491539120674133
+Scenario-based,3,"Here's a picture of what I'm saying:
+ ""I have a feeling that you and your team are getting better at your job, but it's not because you have been looking at a spreadsheet. It's because the people who are in charge are changing the way they're working.""
+ (I didn't ask you this question. The first question is always the most important. ""Is it because I",0.7077916860580444,0.7420464158058167,0.7245143055915833
+Persona-based,1,"The business model of a startup can be so simple. In fact, the process of finding and creating a business is so complex. Many entrepreneurs are just trying to do what they think is best for their business. The only thing you have to worry about is making money. If you don't understand what you are doing, then you will likely never do it right.
+
+
+What You Need to Know Before You Start a",0.7797768712043762,0.7874761819839478,0.783607542514801
+Persona-based,2,"You'll get a better idea of what you can do.
+
+3. Be Creative
+. Most of the time, you'll be able to write down the details of your idea. But if you're not creative, it's not worth it. That's what I learned from my first startup. I never really had a sense of how to do something. It's like being stuck in a car with a broken steering wheel",0.736215353012085,0.7728607654571533,0.7540931105613708
+Persona-based,3,"You need to write this and you'll get a lot of credit for it. It's a simple rule that you've written for yourself, but it will help you get more recognition for your work. And you need it from others. If you want to keep up with the trends, it is time to get involved. Just be honest. Make a big deal out of it and don't let it get in the way",0.7681804895401001,0.7812369465827942,0.7746536731719971
+Keyword-based,1,"A challenge. A challenge is a tool for the mind to grow and learn. It is to be used for teaching the person to understand how to think and act in a positive way. The idea is that you have to use the power of the challenge to your advantage and to help you to do what you need to. When you use this power, you will be able to learn new things and change",0.7587401270866394,0.7574856281280518,0.7581123113632202
+Keyword-based,2,"We need to say something that is inspiring,
+. . . but not just something we are saying. We need the courage to do something. This is why we need courage. It is what we can do. In fact, we could do more. But it is important to remember that we must not become too complacent and take the risks. There are many more things we would like to be",0.7259142994880676,0.7273982167243958,0.7266555428504944
+Keyword-based,3,"Don't be afraid to challenge yourself, but do not be shy. If you can't think clearly, don't worry. Ask yourself what you are going to be working on next. What do you want to achieve next?
+. . .
+:
+,
+
+
+
+In the end, I would recommend reading the book, and learning from it. It is a great introduction to the creative",0.7646802663803101,0.780046820640564,0.7722870707511902
+Conversational,1,"""I think that this is something that we should take into account. I think we can do better."" This is how I view the state of the game and the power of being in the arena. For me, this means that I can be in a place where I have the ability to do good things in games and win. So, I don't really know what I'll do in",0.7230784296989441,0.7361432909965515,0.7295523881912231
+Conversational,2,"""Don't expect to get the best out of your life, but don't give up. You'll have a better life than you ever have before. The world is a place of opportunity, and you will never be bored with life.",0.7783534526824951,0.7657119035720825,0.7719809412956238
+Conversational,3,"""I'm not worried about myself, I just want to see things through.""
+
+""I don't want myself to get into any trouble. I want my goal to be to accomplish something, to push myself hard, and then I'll come up with a way to do it. But I don. That's why I like the idea of going for it.""
+
+
+Q:",0.7249107956886292,0.7421451807022095,0.7334267497062683
